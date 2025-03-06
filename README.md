@@ -1,1 +1,2 @@
 # news
+# global hospital idn
